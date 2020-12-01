@@ -21,3 +21,4 @@ export const LocationProvider = (props) => {
         </LocationContext.Provider>
     )
 }
+

@@ -1,6 +1,29 @@
 {
     "products": [
-
+        {
+            "id": 1,
+            "name": "Sprite",
+            "productTypeId": 4,
+            "price": 2
+        },
+        {
+            "id": 2,
+            "name": "Jawbreaker",
+            "productTypeId": 1,
+            "price": 2
+        },
+        {
+            "id": 3,
+            "name": "Orbit",
+            "productTypeId": 2,
+            "price": 2
+        },
+        {
+            "id": 4,
+            "name": "Hershey's",
+            "productTypeId": 3,
+            "price": 2
+        }
     ],
     "locations": [
         {
@@ -20,6 +43,22 @@
 
     ],
     "productTypes": [
+        {
+            "id": 1,
+            "name": "Hard Candy"
+        },
+        {
+            "id": 2,
+            "name": "Gum"
+        },
+        {
+            "id": 3,
+            "name": "Chocolate"
+        },
+        {
+            "id": 4,
+            "name": "Sodas"
+        }
 
     ],
     "customers": [
