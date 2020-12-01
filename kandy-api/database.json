@@ -1,0 +1,28 @@
+{
+    "products": [
+
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "address": "123 Easy St",
+            "squareFootage": 5000,
+            "handicapAccessible": true
+        },
+        {
+            "id": 2,
+            "address": "124 Simple St",
+            "squareFootage": 6000,
+            "handicapAccessible": false
+        }
+    ],
+    "employees": [
+
+    ],
+    "productTypes": [
+
+    ],
+    "customers": [
+        
+    ]
+}
